@@ -1,0 +1,14 @@
+html {
+  display: block;
+  width: 100%;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1, h2, form, img {
+  margin: 15px auto;
+}
+
+#me {
+  color: gold;
+  background-color: black;
+}
